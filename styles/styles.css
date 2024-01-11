@@ -1,0 +1,28 @@
+/* header related style */
+header {
+    background-image: url('../images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.banner-greet, .banner-title{
+    color: #FFF;
+    font-family: Merriweather;
+    text-align: center;
+}
+.banner-greet {
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 180px;
+}
+
+.banner-title {
+    font-size: 72px;
+    font-weight: 900; 
+}
+
+/* main related style */
